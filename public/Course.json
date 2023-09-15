@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Q889gNw/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "credit": 3,
+      "price": 1990,
+      "details": "This course provides a comprehensive introduction to computer science, covering programming fundamentals and algorithms."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/cLR6PJ2/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "credit": 4,
+      "price": 2490,
+      "details": "This course provides the understanding of Computer algorithm. Algorithm leads You to learning how computer works."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/zFTMWBS/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "credit": 10,
+      "price": 2990,
+      "details": "Become a Serious programmer by learning data structrure with C++ Language. become a programming hero by solving problems"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/pyyT1TV/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "credit": 2,
+      "price": 1490,
+      "details": "Explore the basics of data structure, including Array, Quee, stacks and their varities and usage."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/GRC17P1/Rectangle-2.png",
+      "course_name": "Introduction to Python",
+      "credit": 3,
+      "price": 1790,
+      "details": "Learn the fundamentals structural programming language.Learn basic programming language for advancing forward"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/5657ssZ/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "credit": 4,
+      "price": 2490,
+      "details": "Get started with Software Engineering. Implement softawre development tools and get familiar with development tools"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/3hhhyGs/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "credit": 3,
+      "price": 1990,
+      "details": "Expertise in AWS, Cloud Computing. Explore the huge market and grow your career."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/WPKZjqL/Rectangle-2-1.png",
+      "course_name": "Database (MySQL",
+      "credit": 2,
+      "price": 1290,
+      "details": "Database is the heart of any software. Learn DBMS with MySql to maintain database and build career as a backend developer. "
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/Z1VYCQ9/Rectangle-2-6.png",
+      "course_name": "Problem-Solving Part",
+      "credit": 4,
+      "price": 2490,
+      "details": "Discover the mysteries of the universe by solving new problems. A problem solver has ahuge demand in all company."
+    }
+  ]
